@@ -11,13 +11,7 @@
 	"bugs": {
 		"url": "https://github.com/etherCorps/SK-Redis-SessionManager/issues"
 	},
-	"author": [
-		{
-			"name": "Shivam Meena",
-			"email": "shivam@theether.in",
-			"url": "https://twitter.com/theether0"
-		}
-	],
+	"author": "",
 	"license": "MIT",
 	"keywords": [
 		"SvelteKit",
@@ -50,7 +44,7 @@
 		"dist"
 	],
 	"peerDependencies": {
-		"@sveltejs/kit": "^1.23.0",
+		"@sveltejs/kit": "^2.0.0",
 		"@upstash/redis": "^1.22.0",
 		"ioredis": "^5.3.2",
 		"redis": "^4.6.8"
